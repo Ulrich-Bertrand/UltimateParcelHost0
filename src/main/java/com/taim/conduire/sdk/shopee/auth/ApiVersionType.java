@@ -1,4 +1,4 @@
-package com.taim.conduire.sdk.shopee;
+package com.taim.conduire.sdk.shopee.auth;
 
 public enum ApiVersionType {
     V1("v1"),
